@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-452.000000, -2631.000000)" fill="#757575">
+            <g id="application-icons" transform="translate(40.000000, 2346.000000)">
+                <g id="ic-mobile" transform="translate(412.000000, 285.000000)">
+                    <g transform="translate(4.000000, 1.000000)" id="Combined-Shape">
+                        <path d="M16,0 L16,22 L0,22 L0,0 L16,0 Z M14,2 L2,2 L2,20 L14,20 L14,2 Z M9,16 C9.55228475,16 10,16.4477153 10,17 C10,17.5522847 9.55228475,18 9,18 L7,18 C6.44771525,18 6,17.5522847 6,17 C6,16.4477153 6.44771525,16 7,16 L9,16 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

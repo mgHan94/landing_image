@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-s-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-454.000000, -475.000000)" fill="#757575">
+            <g id="directional-icons-copy" transform="translate(40.000000, 428.000000)">
+                <g id="ic-down" transform="translate(413.300000, 46.300000)">
+                    <g transform="translate(5.000000, 8.000000)">
+                        <polygon transform="translate(5.779731, 3.149810) rotate(-90.000000) translate(-5.779731, -3.149810) " points="8.77973078 -0.781029852 7.48430159 -1.85018956 2.77973078 3.17070573 7.48430159 8.14981044 8.77973078 7.12244131 5.05000105 3.17070573"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

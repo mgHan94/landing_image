@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-68.000000, -2551.000000)" fill="#757575">
+            <g id="application-icons" transform="translate(40.000000, 2346.000000)">
+                <g id="ic-location" transform="translate(28.000000, 205.000000)">
+                    <g transform="translate(4.000000, 0.000000)" id="Combined-Shape">
+                        <path d="M8,-5.5067062e-14 C12.418278,-5.5067062e-14 16,3.73795384 16,8.34895357 C16,12.4069008 13.3333333,17.5991426 8,23.925679 C2.66666667,17.5661256 0,12.3738838 0,8.34895357 C0,3.73795384 3.581722,-5.5067062e-14 8,-5.5067062e-14 Z M8,2.08723839 C4.6862915,2.08723839 2,4.89070377 2,8.34895357 C2,11.3054371 3.86789965,15.3239795 7.68127732,20.2842285 L8.00356387,20.6997599 L8.32550552,20.2863214 C12.1347833,15.3505298 14,11.332774 14,8.34895357 C14,4.89070377 11.3137085,2.08723839 8,2.08723839 Z M8,6 C9.1045695,6 10,6.8954305 10,8 C10,9.1045695 9.1045695,10 8,10 C6.8954305,10 6,9.1045695 6,8 C6,6.8954305 6.8954305,6 8,6 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

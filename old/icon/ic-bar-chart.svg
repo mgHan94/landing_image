@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-bar-chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-356.000000, -1624.000000)" fill="#757575">
+            <g id="data-icons" transform="translate(40.000000, 1579.000000)">
+                <g id="ic-bar-chart" transform="translate(316.000000, 45.000000)">
+                    <g transform="translate(3.000000, 3.000000)" id="Combined-Shape">
+                        <path d="M0,16 L18,16 L18,18 L0,18 L0,16 Z M5,8 L5,14 L3,14 L3,8 L5,8 Z M10,4 L10,14 L8,14 L8,4 L10,4 Z M15,0 L15,14 L13,14 L13,0 L15,0 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

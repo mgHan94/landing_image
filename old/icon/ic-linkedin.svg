@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g transform="translate(-1528 -5745) translate(0 5380) translate(360 364) translate(1088 1) translate(80)">
+                            <rect width="32" height="32" fill="#FFF" opacity=".5" rx="16"/>
+                            <text fill="#3C3C3C" fill-rule="nonzero" font-family="Roboto-Black, Roboto" font-size="20" font-weight="700" letter-spacing="-.625">
+                                <tspan x="8.473" y="23">in</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

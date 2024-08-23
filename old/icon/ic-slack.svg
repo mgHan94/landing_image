@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-slack</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-836.000000, -2951.000000)" fill="#757575">
+            <g id="application-icons" transform="translate(40.000000, 2346.000000)">
+                <g id="ic-slack" transform="translate(795.695065, 604.999997)">
+                    <g transform="translate(2.000000, 2.000000)" id="Combined-Shape">
+                        <path d="M10.019,0 L8.679,5 L14.609,5 L15.949,0 L18.019,0 L16.679,5 L20.609,5 L20.073,7 L16.143,7 L14.535,13 L18.465,13 L17.929,15 L14,15 L12.66,20 L10.589,20 L11.929,15 L6,15 L4.66,20 L2.589,20 L3.929,15 L1.88293825e-13,15 L0.536,13 L4.465,13 L6.073,7 L2.144,7 L2.679,5 L6.609,5 L7.949,0 L10.019,0 Z M14.073,7 L8.143,7 L6.535,13 L12.465,13 L14.073,7 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

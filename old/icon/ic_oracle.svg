@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>ic_oracle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_oracle" transform="translate(1.000000, 1.000000)">
+            <circle id="Oval" stroke="#EAEAEA" fill="#FFFFFF" fill-rule="nonzero" cx="20" cy="20" r="20"></circle>
+            <path d="M25.1333333,11 C30.0224939,11 34,15.0292358 34,20 C34,24.9704845 30.022769,29 25.1333333,29 L14.8666667,29 C9.97855169,29.0002797 6,24.9704845 6,20 C6,15.0292358 9.97855169,11 14.8666667,11 L25.1333333,11 Z M25.1333333,14.3157895 L15.0827468,14.3157895 C11.9170586,14.3157895 9.26666667,16.7820601 9.26666667,20 C9.26666667,23.2176602 12.1679202,25.6842105 15.3333333,25.6842105 L25.1333333,25.6842105 C28.3001222,25.6842105 30.7333333,23.2179399 30.7333333,20 C30.7333333,16.7823398 28.3001222,14.3157895 25.1333333,14.3157895 Z" id="Oracle_logo-Copy-3" fill="#EA1B22"></path>
+        </g>
+    </g>
+</svg>

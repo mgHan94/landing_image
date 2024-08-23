@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 42 42" style="enable-background:new 0 0 42 42;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#EAEAEA;}
+	.st1{fill:#DDDDDD;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#545454;}
+	.st4{fill:none;stroke:#DDDDDD;stroke-miterlimit:10;}
+</style>
+<desc>Created with Sketch.</desc>
+<circle id="Oval" class="st0" cx="21" cy="21" r="20"/>
+<path class="st1" d="M31.6,29.4H10.4c-0.9,0-1.6-0.7-1.6-1.6v-14c0-0.9,0.7-1.6,1.6-1.6h21.2c0.9,0,1.6,0.7,1.6,1.6v14
+	C33.2,28.7,32.5,29.4,31.6,29.4z"/>
+<path class="st2" d="M31.1,28H14.3V13.7h16.8c0.4,0,0.7,0.3,0.7,0.7v12.8C31.8,27.6,31.5,28,31.1,28z"/>
+<path class="st3" d="M14.3,28h-3.4c-0.4,0-0.7-0.3-0.7-0.7V14.5c0-0.4,0.3-0.7,0.7-0.7h3.4V28z"/>
+<line class="st4" x1="14.3" y1="16.6" x2="31.8" y2="16.6"/>
+<line class="st4" x1="14.3" y1="22.4" x2="31.8" y2="22.4"/>
+<line class="st4" x1="23.1" y1="16.6" x2="23.1" y2="28"/>
+</svg>

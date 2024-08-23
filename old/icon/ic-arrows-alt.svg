@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-arrows-alt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-356.000000, -164.000000)" fill="#757575">
+            <g id="directional-icons" transform="translate(40.000000, 119.000000)">
+                <g id="ic-arrows-alt" transform="translate(316.000000, 45.000000)">
+                    <g>
+                        <path d="M9.76812409,12.6297475 L11.1823376,14.043961 L7.22276619,18.0049467 L9.48528137,18.003759 L9.48528137,19.983658 L4,19.983658 L4,14.4983766 L5.97989899,14.4983766 L5.97967247,16.4196133 L9.76812409,12.6297475 Z M19.993658,4.01264069 L19.993658,9.49792206 L18.013759,9.49792206 L18.0139855,7.57668538 L14.2255339,11.3665512 L12.8113203,9.95233765 L16.7708918,5.99135198 L14.5083766,5.99253967 L14.5083766,4.01264069 L19.993658,4.01264069 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

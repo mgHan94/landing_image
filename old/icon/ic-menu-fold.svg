@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-menu-fold</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-548.000000, -3191.000000)" fill="#757575">
+            <g id="application-icons" transform="translate(40.000000, 2346.000000)">
+                <g id="ic-menu-fold-copy" transform="translate(508.000000, 845.000000)">
+                    <path d="M22,18 L22,20 L5,20 L5,18 L22,18 Z M7.24264069,7.76421356 L8.65685425,9.17842712 L6.83285425,11.0032136 L21.9968542,11.0042136 L21.9968542,13.0042136 L6.83085425,13.0042136 L8.65685425,14.83 L7.24264069,16.2442136 L4.41685425,13.4182136 L4.41421356,13.4210678 L3,12.0068542 L3.00285425,12.0042136 L3,12.0015729 L4.41421356,10.5873593 L4.41785425,10.5892136 L7.24264069,7.76421356 Z M22,4 L22,6 L5,6 L5,4 L22,4 Z" id="ic-menu-fold" transform="translate(12.500000, 12.000000) scale(-1, 1) translate(-12.500000, -12.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

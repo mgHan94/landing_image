@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-team</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-836.000000, -3031.000000)" fill="#757575">
+            <g id="application-icons" transform="translate(40.000000, 2346.000000)">
+                <g id="ic-team" transform="translate(796.000000, 685.000000)">
+                    <g transform="translate(2.000000, 5.000000)" id="Icon">
+                        <path d="M16.99,3 C16.99,1.34 15.66,0 14,0 C12.34,0 11,1.34 11,3 C11,4.66 12.34,6 14,6 C15.66,6 16.99,4.66 16.99,3 Z M8.99,3 C8.99,1.34 7.66,0 6,0 C4.34,0 3,1.34 3,3 C3,4.66 4.34,6 6,6 C7.66,6 8.99,4.66 8.99,3 Z M-3.42781359e-15,11.5 L-3.42781359e-15,14 L12,14 L12,11.5 C12,9.17 8.33,8 6,8 C3.67,8 -3.42781359e-15,9.17 -3.42781359e-15,11.5 Z M12.03,8.05 C13.19,8.89 14,10.02 14,11.5 L14,14 L20,14 L20,11.5 C20,9.17 16.33,8 14,8 C13.71,8 12.38,8.02 12.03,8.05 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

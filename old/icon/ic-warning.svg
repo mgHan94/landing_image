@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-warning</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-356.000000, -862.000000)" fill="#757575">
+            <g id="suggested-icons" transform="translate(40.000000, 737.000000)">
+                <g id="ic-warning" transform="translate(315.526278, 125.045523)">
+                    <g transform="translate(2.000000, 3.000000)" id="Combined-Shape">
+                        <path d="M11.317968,0.464043635 L20.813017,15.4207726 C21.2356723,16.0865449 20.7573715,16.956729 19.9687713,16.956729 L1.00161621,16.956729 C0.213508215,16.956729 -0.264878638,16.0875151 0.156784649,15.4216966 L9.62889073,0.464967634 C10.0212556,-0.154587835 10.9249255,-0.155082182 11.317968,0.464043635 Z M10.4747439,2.86743271 L2.81858475,14.956729 L18.1494474,14.956729 L10.4747439,2.86743271 Z M11.4737223,11.9544768 L11.4737223,13.9544768 L9.47372229,13.9544768 L9.47372229,11.9544768 L11.4737223,11.9544768 Z M11.4737223,5.95447678 L11.4737223,10.9544768 L9.47372229,10.9544768 L9.47372229,5.95447678 L11.4737223,5.95447678 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

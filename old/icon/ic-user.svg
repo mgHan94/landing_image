@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-user</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-740.000000, -3031.000000)" fill="#757575">
+            <g id="application-icons" transform="translate(40.000000, 2346.000000)">
+                <g id="ic-user" transform="translate(700.000000, 685.000000)">
+                    <g transform="translate(5.000000, 4.000000)" id="Icon-Copy">
+                        <path d="M10.4883333,3.5 C10.4883333,1.56333333 8.93666667,0 7,0 C5.06333333,0 3.5,1.56333333 3.5,3.5 C3.5,5.43666667 5.06333333,7 7,7 C8.93666667,7 10.4883333,5.43666667 10.4883333,3.5 Z M4.88266834e-15,13.0833333 L4.88266834e-15,16 L14,16 L14,13.0833333 C14,10.365 9.71833333,9 7,9 C4.28166667,9 4.88266834e-15,10.365 4.88266834e-15,13.0833333 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

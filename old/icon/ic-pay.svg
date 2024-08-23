@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>ic-pay</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-Set" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WhaTap_Icon_Set" transform="translate(-740.000000, -2631.000000)" fill="#757575">
+            <g id="application-icons" transform="translate(40.000000, 2346.000000)">
+                <g id="ic-pay" transform="translate(700.000000, 285.000000)">
+                    <g transform="translate(2.000000, 4.000000)" id="Icon">
+                        <path d="M2,1.66977543e-13 C0.89,1.66977543e-13 0.01,2.29316566e-13 0.01,2.29316566e-13 L-5.32907052e-15,16 C-5.32907052e-15,16 0.89,16 2,16 L18,16 C19.11,16 20,16 20,16 L20,2.16104912e-13 C20,2.16104912e-13 19.11,1.66977543e-13 18,1.66977543e-13 L2,1.66977543e-13 Z M18,14 L2,14 L2,8 L18,8 L18,14 L18,14 Z M18,4 L2,4 L2,2 L18,2 L18,4 L18,4 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
